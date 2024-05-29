@@ -26,7 +26,7 @@ NumPy, SciPy for numerical operations
 Matplotlib, Plotly for visualization
 
 Setup and Run
-Clone the repository: git clone https://github.com/<your-username>/3D-Anomaly-Detection.git
+Clone the repository: git clone https://github.com/shrunalisalian/3D-ST
 
 Install dependencies: pip install -r requirements.txt
 Generate the synthetic data: python Synthetic_Data_Generation/create_point_clouds.py
